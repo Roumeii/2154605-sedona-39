@@ -2,7 +2,7 @@
 
 * Студент: [Мария](https://up.htmlacademy.ru/htmlcss/39/user/2154605).
 * Наставник: [Александр Зиновьев](https://htmlacademy.ru/profile/id198751).
-
+* Сайт: [Проект "Седона"](https://roumeii.github.io/2154605-sedona-39/) 
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
